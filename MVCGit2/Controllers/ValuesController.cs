@@ -12,6 +12,8 @@ namespace MVCGit2.Controllers
         // GET api/values
 
         //Change 1 JB
+        //Change 2 JB
+
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
